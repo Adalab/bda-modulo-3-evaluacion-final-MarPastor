@@ -37,7 +37,16 @@ Completado.
 En la carpeta `screenshots` se encuentran las gráficas de resultados de las consultas a la base de datos.
 
 - Ejemplo de gráfica de barras:
+
 ![Ejemplo_01](https://github.com/Adalab/bda-modulo-3-evaluacion-final-MarPastor/blob/main/screenshots/01.02evolucion_vuelos_mes_barplot.png)
+
+- Ejemplo de gráfica circular:
+
+![Ejemplo_02](https://github.com/Adalab/bda-modulo-3-evaluacion-final-MarPastor/blob/main/screenshots/05.03relacion_tarjeta_lealtad_clientes_pie.png)
+
+- Ejemplo de múltiples gráfica de barras:
+
+![Ejemplo_03](https://github.com/Adalab/bda-modulo-3-evaluacion-final-MarPastor/blob/main/screenshots/extra_02_df_flight_numericas.png)
 
 ---
 
