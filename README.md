@@ -36,9 +36,9 @@ Completado.
 
 En la carpeta `screenshots` se encuentran las gráficas de resultados de las consultas a la base de datos.
 
-``` Ejemplo de gráfica de barras:
+- Ejemplo de gráfica de barras:
 ![Ejemplo_01](https://github.com/Adalab/bda-modulo-3-evaluacion-final-MarPastor/blob/main/screenshots/01.02evolucion_vuelos_mes_barplot.png)
-```
+
 ---
 
 ## Carpeta de data
