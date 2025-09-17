@@ -4,7 +4,7 @@ Ejercicio para demostrar comprensión y habilidades en Python para el 'Análisis
 
 ---
 
-## Tecnologías usadas
+## 💡 Tecnologías usadas
 
 - Python3
 - Visual Studio Code
@@ -12,7 +12,7 @@ Ejercicio para demostrar comprensión y habilidades en Python para el 'Análisis
 
 ---
 
-## Estructura del repositorio
+## 📁 Estructura del repositorio
 
 ```
 bda-modulo-3-evaluacion-final-MarPastor
@@ -53,10 +53,9 @@ bda-modulo-3-evaluacion-final-MarPastor
     ├── extra_10_df_loyalty_numericas.png
     └── extra_11_df_loyalty_numericas.png
 ```
-
 ---
 
-## Instrucciones de uso
+## 📝 Instrucciones de uso
 
 1. Clona el repositorio en local.
 2. Ve a la carpeta `notebook` y executa el archivo Jupyter de Python: `final_evaluation_mod3_marpastor`.
@@ -64,19 +63,19 @@ bda-modulo-3-evaluacion-final-MarPastor
 
 ---
 
-## Autora
+## ✍️ Autora
 
 - Mar Pastor
 
 ---
 
-## Estado del proyecto
+## ✅ Estado del proyecto
 
 Completado.
 
 ---
 
-## Capturas de pantalla
+## 📷 Capturas de pantalla
 
 En la carpeta `screenshots` se encuentran las gráficas de resultados de las consultas a la base de datos.
 
@@ -94,7 +93,7 @@ En la carpeta `screenshots` se encuentran las gráficas de resultados de las con
 
 ---
 
-## Carpeta de data
+## 📦 Carpeta de data
 
 En la carpeta `data` se encuentran las siguientes archivos:
 
