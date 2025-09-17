@@ -14,7 +14,8 @@ Ejercicio para demostrar comprensión y habilidades en Python para el 'Análisis
 
 ## Estructura del repositorio
 
-bda-modulo-3-evaluacion-final-MarPastor/
+```
+bda-modulo-3-evaluacion-final-MarPastor
 │
 ├── README.md
 │
@@ -51,6 +52,7 @@ bda-modulo-3-evaluacion-final-MarPastor/
     ├── extra_09_df_loyalty_numericas.png
     ├── extra_10_df_loyalty_numericas.png
     └── extra_11_df_loyalty_numericas.png
+```
 
 ---
 
